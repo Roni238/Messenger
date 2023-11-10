@@ -18,11 +18,5 @@ body{
   margin: 0px;
 }
 </style>
-<script>
-export default {
-  mounted(){
-    console.log(process.env.VUE_APP_BASE_URL)
-  }
-}
-</script>
+
 

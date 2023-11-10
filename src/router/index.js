@@ -5,7 +5,7 @@ import MainViev from '../views/MainViev.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/Messenger/',
     name: 'Main',
     component: MainViev
   },
